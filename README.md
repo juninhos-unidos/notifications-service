@@ -1,2 +1,2 @@
 # notifications-service
-Notifications Service Backend
+Notifications Service Backend API
